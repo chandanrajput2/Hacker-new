@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hacker-new/static/css/main.9c59207b.chunk.css",
+    "main.js": "/Hacker-new/static/js/main.d50e4c11.chunk.js",
+    "main.js.map": "/Hacker-new/static/js/main.d50e4c11.chunk.js.map",
+    "runtime-main.js": "/Hacker-new/static/js/runtime-main.0bfdf198.js",
+    "runtime-main.js.map": "/Hacker-new/static/js/runtime-main.0bfdf198.js.map",
+    "static/js/2.4904b4fd.chunk.js": "/Hacker-new/static/js/2.4904b4fd.chunk.js",
+    "static/js/2.4904b4fd.chunk.js.map": "/Hacker-new/static/js/2.4904b4fd.chunk.js.map",
+    "index.html": "/Hacker-new/index.html",
+    "precache-manifest.5df5ad605a255ea9ace8b23ee8d295a7.js": "/Hacker-new/precache-manifest.5df5ad605a255ea9ace8b23ee8d295a7.js",
+    "service-worker.js": "/Hacker-new/service-worker.js",
+    "static/css/main.9c59207b.chunk.css.map": "/Hacker-new/static/css/main.9c59207b.chunk.css.map",
+    "static/js/2.4904b4fd.chunk.js.LICENSE.txt": "/Hacker-new/static/js/2.4904b4fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bfdf198.js",
+    "static/js/2.4904b4fd.chunk.js",
+    "static/css/main.9c59207b.chunk.css",
+    "static/js/main.d50e4c11.chunk.js"
+  ]
+}
